@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/a739eeff-3ea7-4ee9-b415-549c37b9ff1c)
-Interactive and simple 3d portfolio template.
+Interactive and simple 3d portfolio template using javascript Three.js library.
 
 Resources needed:- 
 - A code editor with all basic extentions.
